@@ -1,0 +1,39 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(49, 56, 87);
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: lightcoral;
+    border-radius: 5px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .info {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  #randomBtn {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: skyblue;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #output {
+    margin-top: 20px;
+    background-color: lightgreen;
+    font-size: 15px;
+  }
+  
